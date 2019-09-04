@@ -1,5 +1,4 @@
-Year,Table Wine1,Dessert Wine2,Sparkling Wine/,Total Wine,Total Retail Value3
-,,,Champagne,,
+Year,Table Wine,Dessert Wine,Sparkling Wine/Champagne,Total Wine Sales,Total Retail Value
 2018,338.7,40.4,27.4,406.5,$68.1 billion
 2017,336.1,40.8,26.4,403.3,$65.3 billion
 2016,332,41.2,24.4,397.6,$63.3 billion
@@ -17,10 +16,3 @@ Year,Table Wine1,Dessert Wine2,Sparkling Wine/,Total Wine,Total Retail Value3
 2004,245.3,20.3,13.2,278.8,$36.2 billion
 2003,237,17.6,12,266.6,$34.0 billion
 2002,222.6,15.9,11.5,250,$33.0 billion
-,,,,,
-WINE SALES IN THE US,,,,,
-"(Wine shipments in millions of 9-liter cases from California, other states and foreign producers entering U.S. distribution)",,,,,
-"Sources: Wine Institute, Department of Commerce, Estimates by BW166/Gomberg, Fredrikson & Associates. Preliminary. History revised. Excludes exports. Excludes Cider. Totals may not add up exactly due to rounding.",,,,,
-"1 Includes all still wines not over 14 percent alcohol, including bulk imports bottled in the U.S.",,,,,
-"2 Includes all still wines over 14 percent alcohol and sake, including bulk imports bottled in the U.S.",,,,,
-"3 Estimated retail value includes markups by wholesalers, retailers and restaurateurs. Includes on- and off-premise expenditures.",,,,,
